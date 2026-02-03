@@ -1,0 +1,21 @@
+# ---------- Node ----------
+node_modules/
+npm-debug.log*
+
+# ---------- Python ----------
+venv/
+__pycache__/
+*.pyc
+
+# ---------- ML / binaries ----------
+*.dll
+*.exe
+*.pkl
+*.joblib
+
+# ---------- Environment ----------
+.env
+
+# ---------- OS ----------
+.DS_Store
+Thumbs.db

@@ -1,0 +1,15 @@
+fastapi
+uvicorn
+pandas
+numpy
+scikit-learn
+xgboost
+joblib
+pydantic
+python-multipart
+python-dotenv
+requests
+sqlalchemy
+psycopg2-binary
+redis
+google-generativeai
