@@ -1,6 +1,8 @@
 {
   "dependencies": {
     "compose": "^0.1.2",
-    "docker": "^1.0.0"
+    "docker": "^1.0.0",
+     "vite": "^5.0.0",
+     "esbuild": "^0.19.12"
   }
 }
