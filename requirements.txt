@@ -17,7 +17,7 @@ google-generativeai==0.8.6
 googleapis-common-protos==1.72.0
 greenlet==3.3.1
 grpcio==1.76.0
-grpcio-status>=1.75.1
+grpcio-status<1.75.0
 h11==0.16.0
 httplib2==0.31.2
 idna==3.11
@@ -25,7 +25,7 @@ joblib==1.5.3
 numpy==2.4.2
 pandas==3.0.0
 proto-plus==1.27.1
-protobuf<6.0.0
+protobuf>=3.19.0,<7
 psycopg2-binary==2.9.11
 pyasn1==0.6.2
 pyasn1_modules==0.4.2
